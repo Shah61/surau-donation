@@ -378,7 +378,7 @@ export default function UserDonationPage() {
             <span className="text-3xl">🕌</span>
           </div>
           <h1 className="font-display text-3xl sm:text-4xl md:text-5xl font-bold text-white mb-3" style={{ animation: "fadeSlideIn 0.6s ease-out 0.1s both" }}>
-            Masjid Al-Ehsan
+            Masjid 
           </h1>
           <p className="text-emerald-200 text-sm sm:text-base max-w-md mx-auto mb-8" style={{ animation: "fadeSlideIn 0.6s ease-out 0.2s both" }}>
             Platform Derma & Sumbangan Digital — Mudah, Telus, dan Berkat
@@ -488,7 +488,7 @@ export default function UserDonationPage() {
 
       <footer className="border-t border-stone-200 bg-white py-8">
         <div className="max-w-6xl mx-auto px-4 sm:px-6 text-center">
-          <p className="text-xs text-stone-400">© 2025 Masjid Al-Ehsan — Sistem Pengurusan Derma Digital</p>
+          <p className="text-xs text-stone-400">© 2025 Masjid  — Sistem Pengurusan Derma Digital</p>
           <p className="text-[10px] text-stone-300 mt-1">POC Demo v1.0 • Dibina dengan ❤️</p>
         </div>
       </footer>

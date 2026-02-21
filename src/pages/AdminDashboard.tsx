@@ -432,7 +432,7 @@ export default function AdminDashboard() {
               🕌
             </div>
             <div>
-              <div className="font-bold text-stone-900 text-sm">Masjid Al-Ehsan</div>
+              <div className="font-bold text-stone-900 text-sm">Masjid</div>
               <div className="text-[10px] text-stone-400 font-medium uppercase tracking-wider">Panel Admin</div>
             </div>
           </div>
@@ -479,7 +479,7 @@ export default function AdminDashboard() {
                   🕌
                 </div>
                 <div>
-                  <div className="font-bold text-stone-900 text-sm">Masjid Al-Ehsan</div>
+                  <div className="font-bold text-stone-900 text-sm">Masjid</div>
                   <div className="text-[10px] text-stone-400 font-medium uppercase tracking-wider">Panel Admin</div>
                 </div>
               </div>

@@ -93,7 +93,7 @@ export default function FpxPayPage() {
             <span className="text-2xl">🕌</span>
             <div>
               <h1 className="font-display font-bold text-stone-900">Bayar dengan FPX</h1>
-              <p className="text-xs text-stone-500">Masjid Al-Ehsan — Derma Digital</p>
+              <p className="text-xs text-stone-500">Masjid  — Derma Digital</p>
             </div>
           </div>
         </div>
